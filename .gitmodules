@@ -1,18 +1,18 @@
 [submodule "ECommons"]
 	path = ECommons
-	url = https://github.com/ffxiv-tc-port/ECommons.git
+	url = ../ECommons.git.git
 [submodule "AutoRetainerAPI"]
 	path = AutoRetainerAPI
-	url = https://github.com/ffxiv-tc-port/AutoRetainerAPI.git
+	url = ../AutoRetainerAPI.git.git
 [submodule "OtterGui"]
 	path = OtterGui
-	url = https://github.com/ffxiv-tc-port/OtterGui.git
+	url = ../OtterGui.git.git
 [submodule "NightmareUI"]
 	path = NightmareUI
-	url = https://github.com/ffxiv-tc-port/NightmareUI.git
+	url = ../NightmareUI.git.git
 [submodule "NightmareUI.OtterGuiWrapper"]
 	path = NightmareUI.OtterGuiWrapper
-	url = https://github.com/ffxiv-tc-port/NightmareUI.OtterGuiWrapper.git
+	url = ../NightmareUI.OtterGuiWrapper.git.git
 [submodule "FFXIVClientStructs"]
 	path = FFXIVClientStructs
-	url = https://github.com/ffxiv-tc-port/FFXIVClientStructs.git
+	url = ../FFXIVClientStructs.git.git
