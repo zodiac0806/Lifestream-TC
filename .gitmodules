@@ -1,18 +1,18 @@
-[submodule "ECommons"]
+﻿[submodule "ECommons"]
 	path = ECommons
-	url = ../ECommons.git.git
+	url = ../ECommons.git
 [submodule "AutoRetainerAPI"]
 	path = AutoRetainerAPI
-	url = ../AutoRetainerAPI.git.git
+	url = ../AutoRetainerAPI.git
 [submodule "OtterGui"]
 	path = OtterGui
-	url = ../OtterGui.git.git
+	url = ../OtterGui.git
 [submodule "NightmareUI"]
 	path = NightmareUI
-	url = ../NightmareUI.git.git
+	url = ../NightmareUI.git
 [submodule "NightmareUI.OtterGuiWrapper"]
 	path = NightmareUI.OtterGuiWrapper
-	url = ../NightmareUI.OtterGuiWrapper.git.git
+	url = ../NightmareUI.OtterGuiWrapper.git
 [submodule "FFXIVClientStructs"]
 	path = FFXIVClientStructs
-	url = ../FFXIVClientStructs.git.git
+	url = ../FFXIVClientStructs.git
