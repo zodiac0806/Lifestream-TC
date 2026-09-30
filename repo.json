@@ -6,7 +6,7 @@
     "AssemblyVersion": "7.15.0.4",
     "Description": "- 一鍵傳送至任何世界或以太之光目的地\n- 點擊區域地圖上的以太之光即可傳送過去\n\n本版本修正了台服(TC)無法正確解析以太之光目的地名稱的問題。",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/okaminico/Lifestream-1",
+    "RepoUrl": "https://github.com/zodiac0806/Lifestream-TC",
     "Tags": [
       "teleport",
       "aethernet",
@@ -23,8 +23,8 @@
     "LoadPriority": 0,
     "Punchline": "加速以太之光移動與跨世界旅行的插件(台服修正版)。",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/okaminico/Lifestream-1/releases/download/Lifestream-v7.15.0.4-autosync/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/okaminico/Lifestream-1/releases/download/Lifestream-v7.15.0.4-autosync/latest.zip",
+    "DownloadLinkInstall": "https://github.com/zodiac0806/Lifestream-TC/releases/download/v7.15.0.4/Lifestream.zip",
+    "DownloadLinkUpdate": "https://github.com/zodiac0806/Lifestream-TC/releases/download/v7.15.0.4/Lifestream.zip",
     "Changelog": "自動合併 ffxiv-tc-port/Lifestream 上游更新（2026-09-05）。"
   }
 ]
